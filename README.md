@@ -32,7 +32,7 @@
     <a href="https://medium.com/@mohitdevelopment2001" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
             alt="@mohitdevelopment2001" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/itsmohitcodes" target="blank"><img align="center"
+    <a href="https://www.youtube.com/@itsmohitcodes" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="itsmohitcodes" height="30" width="40" /></a>
 </p>
