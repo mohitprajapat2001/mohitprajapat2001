@@ -49,13 +49,15 @@
 
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@itsmohitprajapat)
 
+## Github Stats
+
 ![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitprajapat2001&show_icons=true&theme=highcontrast&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitprajapat2001&hide_progress=true&theme=highcontrast)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mohitprajapat2001&theme=highcontrast)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mohitprajapat2001&theme=highcontrast)
 
-[![Mohit Prajapat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohitprajapat2001&theme=high-contrast&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Mohit Prajapat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohitprajapat2001&theme=high-contrast&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
 
 
 ## License
