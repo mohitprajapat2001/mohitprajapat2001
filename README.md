@@ -1,21 +1,16 @@
-![logo](https://github.com/mohitprajapat2001/mohitprajapat2001/blob/main/Banner%20Youtube.jpg)
+<!-- ![logo](https://github.com/mohitprajapat2001/mohitprajapat2001/blob/main/Banner%20Youtube.jpg) -->
 
-
-<!---![logo](https://github.com/mohitprajapat2001/mohitprajapat2001/blob/main/Banner%20Youtube.jpg)--->
 <h1 align="center">Hi 👋, I'm Mohit Prajapat</h1>
 <h3 align="center">Passionate Python/Django Developer</h3>
 <img src="https://assets-v2.lottiefiles.com/a/08e519b4-7df9-11ee-82d8-07ca5cee586e/CGlkmmjtqA.gif" alt="Reference Image"
     width="400" align="right">
-    
 
-
-- 🔭 Helping Students to Learn Together
--  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@itsmohitcodes)
 - 📝 I regularly Write Article on Medium & Linkedin, So make sure to Follow me There.
+
 - 💬 Ask me about **Django, Python & JavaScript**
-- 📫 How to reach me 
--  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitdevelopment2001@gmail.com)
+
 - 📫 Follow me for Exciting Projects.
+
 - ⚡ Fun fact **The first programmer was daughter of mad poet.**
 
 ## Tools and Languages
@@ -36,20 +31,14 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=for-the-badge&logo=celery&logoColor=ddf4a4)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsmohitprajapat)
 
-
 [![github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohitprajapat2001)
 
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@itsmohitprajapat)
-
-## Github Stats
 
 ![Mohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohitprajapat2001&show_icons=true&theme=highcontrast&rank_icon=github)
 
@@ -59,10 +48,38 @@
 
 ![Mohit Prajapat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohitprajapat2001&theme=high-contrast&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
 
+## Documentation Learning
+![Mohit Prajapat's ](https://github-readme-stats.vercel.app/api/pin/?username=mohitprajapat2001&repo=Django-Documentation&theme=highcontrast)
+![Mohit Prajapat's ](https://github-readme-stats.vercel.app/api/pin/?username=mohitprajapat2001&repo=Bootstrap-Documentation&theme=highcontrast)
+![Mohit Prajapat's ](https://github-readme-stats.vercel.app/api/pin/?username=mohitprajapat2001&repo=Git-GitHub-Documentation&theme=highcontrast)
+![Mohit Prajapat's ](https://github-readme-stats.vercel.app/api/pin/?username=mohitprajapat2001&repo=HTML-Documentation&theme=highcontrast)
+![Mohit Prajapat's ](https://github-readme-stats.vercel.app/api/pin/?username=mohitprajapat2001&repo=CSS-Documentation&theme=highcontrast)
+
+## Django Projects
+![Mohit Prajapat's Django Projects](https://github-readme-stats.vercel.app/api/pin/?username=mohitprajapat2001&repo=quick-media&theme=highcontrast)
+![Mohit Prajapat's Django Projects](https://github-readme-stats.vercel.app/api/pin/?username=mohitprajapat2001&repo=Django-Crud&theme=highcontrast)
+
+![Mohit Prajapat's Django Projects](https://github-readme-stats.vercel.app/api/pin/?username=mohitprajapat2001&repo=Quick-Polls&theme=highcontrast)
+
+## Python Projects
+![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohitprajapat2001&repo=OTP-Verification&theme=highcontrast)
+![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohitprajapat2001&repo=PDF-Generator&theme=highcontrast)
+![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohitprajapat2001&repo=Flipkart-Data-Scraping&theme=highcontrast)
+![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohitprajapat2001&repo=Quick-Ticket&theme=highcontrast)
+![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohitprajapat2001&repo=Weather-Data-Scraping&theme=highcontrast)
+![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohitprajapat2001&repo=Music-Lyrics&theme=highcontrast)
+![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohitprajapat2001&repo=Email-OTP-Validation&theme=highcontrast)
+
+## Bootstrap Projects
+![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohitprajapat2001&repo=Bootstrap-Projects&theme=highcontrast)
+
+## HTML CSS Projects
+![Mohit Prajapat's Python Projects ](https://github-readme-stats.vercel.app/api/pin/?username=mohitprajapat2001&repo=HTML-CSS-JS-Exercise&theme=highcontrast)
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
+
 <!---
 mohitprajapat2001/mohitprajapat2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
